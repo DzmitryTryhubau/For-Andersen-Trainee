@@ -1,0 +1,13 @@
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.csprojAssemblyReference.cache
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.Form1.resources
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.Tast1.resources
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.pdb
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.Test2.resources
+C:\Test\Dzmitry Tryhubau, Homel, AQA, C#\V2\TestTask\TestTask\obj\Debug\TestTask.Test3.resources
