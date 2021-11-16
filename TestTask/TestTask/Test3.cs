@@ -36,7 +36,7 @@ namespace TestTask
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Проверьте формат введенных ", ex.ToString());
+                MessageBox.Show("Проверьте формат введенных данных", ex.ToString());
             }
         
         }
